@@ -1,0 +1,9 @@
+# Skin Cancer Detection Backend (Flask)
+
+
+flask
+flask-cors
+tensorflow
+numpy
+opencv-python
+pillow
